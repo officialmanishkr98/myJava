@@ -1,0 +1,8 @@
+
+
+
+
+round -> 2
+
+difference between thread and process
+difference between router and gateway
